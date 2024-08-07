@@ -32,7 +32,7 @@ Below you'll find instructions
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/ekeesther23/anonymous-lend-dapp.git 
+   git clone https://github.com/ekeesther234/anonymous-lend-dapp.git 
    ```
 
 2. Install NPM packages
